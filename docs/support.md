@@ -20,7 +20,9 @@ A report is much easier to act on with:
   light yellow)
 - for connection problems, the app's diagnostics: Settings, Help, Share diagnostics.
   Pairing ids and Wi-Fi passwords are masked in what it shares. Please read it before
-  attaching it; it includes your model's name and its address on your network.
+  attaching it: it includes your model's name and its address on your network, the name
+  of your Wi-Fi network, and the names of other devices paired with the model. Issues
+  here are public.
 
 ## Ideas
 
