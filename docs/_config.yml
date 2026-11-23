@@ -1,0 +1,7 @@
+title: Dome Pilot
+description: A remote control app for the De Agostini / Fanhome Build Your Own R2-D2 model
+theme: jekyll-theme-minimal
+logo: /icon.svg
+show_downloads: false
+github:
+  is_project_page: true

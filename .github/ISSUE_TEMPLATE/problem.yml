@@ -1,0 +1,47 @@
+name: Problem report
+description: Something in Dome Pilot isn't working as it should.
+labels: [problem]
+body:
+  - type: textarea
+    id: what
+    attributes:
+      label: What happened?
+      description: What you did, what you expected, and what happened instead.
+    validations:
+      required: true
+  - type: input
+    id: device
+    attributes:
+      label: Device and iOS version
+      placeholder: iPhone 16 Pro Max, iOS 26.1
+    validations:
+      required: true
+  - type: input
+    id: version
+    attributes:
+      label: Dome Pilot version
+      description: Shown in Settings, About Dome Pilot.
+      placeholder: 1.0.0 (1)
+    validations:
+      required: true
+  - type: dropdown
+    id: mode
+    attributes:
+      label: How was the model connected?
+      options:
+        - Home Wi-Fi (back light green)
+        - Direct mode (back light yellow)
+        - Not connected yet (set-up problem)
+        - Demo mode (no model)
+        - Not sure
+    validations:
+      required: true
+  - type: textarea
+    id: diagnostics
+    attributes:
+      label: Diagnostics (optional)
+      description: >
+        For connection problems: in the app go to Settings, Help, Share diagnostics, and
+        paste or attach the result. Pairing ids and Wi-Fi passwords are masked. It does
+        include your model's name and its address on your network, so read it first.
+      render: text
