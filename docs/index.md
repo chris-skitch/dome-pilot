@@ -12,7 +12,30 @@ you will know that its companion app is no longer available. Without it the mode
 camera, driving controls, sounds and routines cannot be used. Dome Pilot is a new,
 independent app that controls the model over Wi-Fi.
 
-**Status:** being prepared for the App Store. This page will link to it when it is live.
+**Status:** version 1.0 was submitted to Apple for App Store review in November 2026.
+This page will link to it when it is live.
+
+## Screenshots
+
+<p>
+  <img src="screenshots/01-drive.png" width="150" alt="Drive screen: live camera picture, joystick, dome buttons and Stop" title="Drive screen: live camera picture, joystick, dome buttons and Stop">
+  <img src="screenshots/02-actions.png" width="150" alt="Actions: the model's built-in moves and lights" title="Actions: the model's built-in moves and lights">
+  <img src="screenshots/03-sounds.png" width="150" alt="Sounds: every built-in sound, with favourites" title="Sounds: every built-in sound, with favourites">
+</p>
+<p>
+  <img src="screenshots/04-sequences.png" width="150" alt="Sequences: your own chains of actions, sounds and pauses" title="Sequences: your own chains of actions, sounds and pauses">
+  <img src="screenshots/06-controller.png" width="150" alt="Game controller: choose what each button does" title="Game controller: choose what each button does">
+  <img src="screenshots/07-help-lights.png" width="150" alt="Help: what the model's lights and buttons mean" title="Help: what the model's lights and buttons mean">
+</p>
+
+1. Drive screen: live camera picture, joystick, dome buttons and Stop
+2. Actions: the model's built-in moves and lights
+3. Sounds: every built-in sound, with favourites
+4. Sequences: your own chains of actions, sounds and pauses
+5. Game controller: choose what each button does
+6. Help: what the model's lights and buttons mean
+
+The pictures show the app's built-in demo, which works without the model.
 
 ## What it does
 

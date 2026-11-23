@@ -7,10 +7,33 @@ The model's original companion app is no longer available, which leaves the fini
 model without its camera view, driving controls, sounds and routines. Dome Pilot is a
 new, independent app that controls the model over Wi-Fi.
 
-**Status:** being prepared for the App Store. This page will link to it when it is live.
+**Status:** version 1.0 was submitted to Apple for App Store review in November 2026.
+This page will link to it when it is live.
 
 This repository holds the app's documentation and its issue tracker. The source code is
 not published here yet.
+
+## Screenshots
+
+<p>
+  <img src="docs/screenshots/01-drive.png" width="240" alt="Drive screen: live camera picture, joystick, dome buttons and Stop" title="Drive screen: live camera picture, joystick, dome buttons and Stop">
+  <img src="docs/screenshots/02-actions.png" width="240" alt="Actions: the model's built-in moves and lights" title="Actions: the model's built-in moves and lights">
+  <img src="docs/screenshots/03-sounds.png" width="240" alt="Sounds: every built-in sound, with favourites" title="Sounds: every built-in sound, with favourites">
+</p>
+<p>
+  <img src="docs/screenshots/04-sequences.png" width="240" alt="Sequences: your own chains of actions, sounds and pauses" title="Sequences: your own chains of actions, sounds and pauses">
+  <img src="docs/screenshots/06-controller.png" width="240" alt="Game controller: choose what each button does" title="Game controller: choose what each button does">
+  <img src="docs/screenshots/07-help-lights.png" width="240" alt="Help: what the model's lights and buttons mean" title="Help: what the model's lights and buttons mean">
+</p>
+
+1. Drive screen: live camera picture, joystick, dome buttons and Stop
+2. Actions: the model's built-in moves and lights
+3. Sounds: every built-in sound, with favourites
+4. Sequences: your own chains of actions, sounds and pauses
+5. Game controller: choose what each button does
+6. Help: what the model's lights and buttons mean
+
+The pictures show the app's built-in demo, which works without the model.
 
 ## What it does
 
