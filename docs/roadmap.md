@@ -92,3 +92,11 @@ never finished. If you have one, please reply on the
 ## 💭 Maybe
 
 - **An Android app.** Driving from a browser through Dome Core covers the basics first.
+
+### 🙏 Can you help? Wanted: an Android phone or tablet
+
+An Android version can't be built and tested without an Android device to try it on. If
+you have a spare phone or tablet running a reasonably recent version of Android that
+you'd be willing to donate, please reply on the
+[Wanted: an Android phone or tablet](https://github.com/chris-skitch/dome-pilot/issues/3)
+issue. Thank you!
