@@ -8,8 +8,10 @@
   .toc a { display: block; padding: 6px 10px; border-radius: 8px; color: #333; text-decoration: none; font-size: 15px; }
   .toc a:hover { background: #f2f2f7; color: #1e6fd9; }
   .toc a[aria-current="page"] { background: #e8effb; color: #1557b0; font-weight: 700; }
-  header p.store a { display: inline-block; background: #1e6fd9; color: #fff; padding: 8px 14px; border-radius: 10px; font-weight: 700; text-decoration: none; }
-  header p.store a:hover { background: #1557b0; }
+  /* Apple's badge: unmodified, at least 40 px high, clear space of a quarter of its height. */
+  header p.store { margin: 14px 0; line-height: 0; }
+  header p.store a { display: inline-block; }
+  header p.store img { height: 40px; width: auto; max-width: none; }
   footer { bottom: 30px; }
 
   .pager { display: flex; justify-content: space-between; gap: 12px; margin: 48px 0 8px; padding-top: 20px; border-top: 1px solid #e5e5e5; }

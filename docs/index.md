@@ -71,3 +71,6 @@ Dome Pilot is an independent app. It is not affiliated with, endorsed by or spon
 De Agostini, Fanhome, Lucasfilm Ltd or Disney. R2-D2 and Star Wars are trademarks of
 Lucasfilm Ltd. De Agostini and Fanhome are trademarks of their respective owners. These
 names are used only to identify the model the app works with.
+
+Apple and the Apple logo are trademarks of Apple Inc., registered in the U.S. and other
+countries. App Store is a service mark of Apple Inc.
