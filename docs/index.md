@@ -57,12 +57,12 @@ The pictures show the app's built-in demo, which works without the model.
 
 ## Help
 
-- [Getting started](getting-started)
-- [Using Dome Pilot](using-dome-pilot)
-- [Siri and Shortcuts](siri-and-shortcuts)
-- [Lights and buttons](lights-and-buttons)
-- [Troubleshooting](troubleshooting)
-- [Support and feedback](support)
+- <img src="images/icons/wifi.svg" width="18" height="18" alt="" style="vertical-align: middle"> [Getting started](getting-started)
+- <img src="images/icons/drive.svg" width="18" height="18" alt="" style="vertical-align: middle"> [Using Dome Pilot](using-dome-pilot)
+- <img src="images/icons/siri.svg" width="18" height="18" alt="" style="vertical-align: middle"> [Siri and Shortcuts](siri-and-shortcuts)
+- <img src="images/lights/green.svg" width="18" height="18" alt="" style="vertical-align: middle"> [Lights and buttons](lights-and-buttons)
+- <img src="images/icons/help.svg" width="18" height="18" alt="" style="vertical-align: middle"> [Troubleshooting](troubleshooting)
+- <img src="images/icons/help.svg" width="18" height="18" alt="" style="vertical-align: middle"> [Support and feedback](support)
 - [Privacy policy](privacy)
 
 ## Independence and trademarks

@@ -7,11 +7,17 @@ title: Troubleshooting
 ## The app can't find my model
 
 - Is the model switched on? Main switch underneath, then button 6 if both dome lights
-  are off. Wait for the front light to go purple.
-- Look at the **back light**. Green means home Wi-Fi: your device must be on the same
-  Wi-Fi. Yellow means direct mode: use **Connect directly**.
-- Back light flashing green quickly: the model is set to home Wi-Fi but has not joined a
-  network. Put it on your Wi-Fi again.
+  are off. Wait for the front light to go purple
+  <img src="images/lights/purple.svg" width="22" height="22" alt="" style="vertical-align: middle">.
+- Look at the **back light**. Green
+  <img src="images/lights/green.svg" width="22" height="22" alt="" style="vertical-align: middle">
+  means home Wi-Fi: your device must be on the same Wi-Fi. Yellow
+  <img src="images/lights/yellow.svg" width="22" height="22" alt="" style="vertical-align: middle">
+  means direct mode: use **Connect directly**.
+- Back light flashing green quickly
+  <img src="images/lights/green-fast.svg" width="22" height="22" alt="" style="vertical-align: middle">:
+  the model is set to home Wi-Fi but has not joined a network. Put it on your Wi-Fi again.
+- Is it charging? It can't be reached until about a minute after you unplug it.
 - Is it a 2.4 GHz network? The model cannot use 5 GHz.
 - Finding can take up to about 30 seconds. If you know the model's address, use **Type
   its address**.
@@ -26,19 +32,26 @@ can also reach.
 
 ## The model didn't read the Wi-Fi code
 
-- The front light must be flashing blue while you hold up the code. Press button 4 again.
+- The front light must be flashing blue
+  <img src="images/lights/blue-slow.svg" width="22" height="22" alt="" style="vertical-align: middle">
+  while you hold up the code. Press button 4 again.
 - Hold the screen about a hand's width from the camera at the top of the dome.
+
+  <img src="images/wifi-code.svg" width="400" alt="Hold the code about a hand's width from the camera at the top of the dome.">
+
 - Turn the room lights down a little and avoid glare on the screen.
 
 ## It read the code but didn't join
 
-The front light flashes red slowly. Check the Wi-Fi name and password, including
+The front light flashes red slowly
+<img src="images/lights/red-slow.svg" width="22" height="22" alt="" style="vertical-align: middle">. Check the Wi-Fi name and password, including
 capital letters, and that the network is 2.4 GHz.
 
 ## "Press the pair button" keeps coming back
 
 The model only accepts a new device for about 30 seconds after button 4 is pressed.
-Press it, wait for the slow blue flashing, then tap the button in the app straight away.
+Press it, wait for the slow blue flashing
+<img src="images/lights/blue-slow.svg" width="22" height="22" alt="" style="vertical-align: middle">, then tap the button in the app straight away.
 
 ## The connection drops now and then
 
@@ -54,6 +67,11 @@ That's normal. While the charger is plugged in, the model leaves the Wi-Fi compl
 neither Dome Pilot nor Siri can reach it. The back light may stay green; that shows the
 mode it's set to, not that it's connected.
 
+| | Front light while charging |
+|---|---|
+| <img src="images/lights/purple-slow.svg" width="28" height="28" alt=""> | Purple, flashing slowly: charging |
+| <img src="images/lights/blue.svg" width="28" height="28" alt=""> | Blue: fully charged |
+
 About a minute after you unplug the charger, it rejoins your Wi-Fi by itself and Dome
 Pilot can find it again.
 
@@ -64,5 +82,7 @@ Only one phone or tablet can use the camera at a time. Close the app on any othe
 ## The model won't move
 
 - Tap Stop once and try again: after a stop, let go of the controls and press again.
-- Check the battery reading at the top of the Drive screen.
+- Check the battery reading at the top of the Drive screen. A red front light
+  <img src="images/lights/red.svg" width="22" height="22" alt="" style="vertical-align: middle">
+  means it's below 20%.
 - A routine may be running. Stop ends it.
