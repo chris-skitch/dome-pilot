@@ -58,6 +58,7 @@ The pictures show the app's built-in demo, which works without the model.
 
 ## Help
 
+- <img src="images/icons/actions.svg" width="18" height="18" alt="" style="vertical-align: middle"> [Roadmap](roadmap): what's next
 - <img src="images/icons/wifi.svg" width="18" height="18" alt="" style="vertical-align: middle"> [Getting started](getting-started)
 - <img src="images/icons/drive.svg" width="18" height="18" alt="" style="vertical-align: middle"> [Using Dome Pilot](using-dome-pilot)
 - <img src="images/icons/siri.svg" width="18" height="18" alt="" style="vertical-align: middle"> [Siri and Shortcuts](siri-and-shortcuts)

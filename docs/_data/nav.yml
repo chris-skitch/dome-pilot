@@ -2,6 +2,8 @@
 # previous/next links on every page.
 - title: Home
   url: /
+- title: Roadmap
+  url: /roadmap
 - title: Getting started
   url: /getting-started
 - title: Using Dome Pilot
