@@ -57,6 +57,8 @@ The pictures show the app's built-in demo, which works without the model.
 ## Documentation
 
 - [Getting started](https://chris-skitch.github.io/dome-pilot/getting-started)
+- [Using Dome Pilot](https://chris-skitch.github.io/dome-pilot/using-dome-pilot)
+- [Siri and Shortcuts](https://chris-skitch.github.io/dome-pilot/siri-and-shortcuts)
 - [Lights and buttons](https://chris-skitch.github.io/dome-pilot/lights-and-buttons)
 - [Troubleshooting](https://chris-skitch.github.io/dome-pilot/troubleshooting)
 - [Privacy policy](https://chris-skitch.github.io/dome-pilot/privacy)

@@ -78,3 +78,8 @@ the app. After that it reconnects by itself.
 Pair any controller with your iPhone or iPad in the usual way. The left stick drives,
 the right stick turns the dome, and one button is always Stop. You can change what each
 button does in Settings, Game controller.
+
+## Next
+
+- [Using Dome Pilot](using-dome-pilot): actions, sounds, sequences, photos and settings
+- [Siri and Shortcuts](siri-and-shortcuts)

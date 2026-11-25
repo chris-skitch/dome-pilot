@@ -48,6 +48,15 @@ Press it, wait for the slow blue flashing, then tap the button in the app straig
 - When it happens, share the app's diagnostics in a
   [problem report](https://github.com/chris-skitch/dome-pilot/issues/new/choose).
 
+## It disappears while it's charging
+
+That's normal. While the charger is plugged in, the model leaves the Wi-Fi completely, so
+neither Dome Pilot nor Siri can reach it. The back light may stay green; that shows the
+mode it's set to, not that it's connected.
+
+About a minute after you unplug the charger, it rejoins your Wi-Fi by itself and Dome
+Pilot can find it again.
+
 ## No camera picture
 
 Only one phone or tablet can use the camera at a time. Close the app on any other device.

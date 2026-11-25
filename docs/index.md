@@ -45,7 +45,7 @@ The pictures show the app's built-in demo, which works without the model.
 - Build, save and share your own sequences of actions and sounds
 - Works on your home Wi-Fi (2.4 GHz) or connected straight to the model
 - Step-by-step set-up with pictures of which button to press and which light to watch
-- Siri and Shortcuts
+- [Siri and Shortcuts](siri-and-shortcuts)
 - A built-in demo, so you can try it without the model
 - No account, no ads, no tracking
 
@@ -58,6 +58,8 @@ The pictures show the app's built-in demo, which works without the model.
 ## Help
 
 - [Getting started](getting-started)
+- [Using Dome Pilot](using-dome-pilot)
+- [Siri and Shortcuts](siri-and-shortcuts)
 - [Lights and buttons](lights-and-buttons)
 - [Troubleshooting](troubleshooting)
 - [Support and feedback](support)
