@@ -31,8 +31,8 @@ The model has two Wi-Fi modes. The **back light** on the dome shows which it is 
 
 | | Back light | Mode | Use it when |
 |---|---|---|---|
-| <img src="images/lights/green.svg" width="28" height="28" alt=""> | Green | Home Wi-Fi | You want the model ready whenever your phone is on your Wi-Fi. The usual choice. |
-| <img src="images/lights/yellow.svg" width="28" height="28" alt=""> | Yellow | Direct | You are away from home, or you just want to try it. The model makes its own Wi-Fi network for your phone. |
+| <img src="images/lights/green.svg" width="28" height="28" alt="" style="min-width: 28px; max-width: none"> | Green | Home Wi-Fi | You want the model ready whenever your phone is on your Wi-Fi. The usual choice. |
+| <img src="images/lights/yellow.svg" width="28" height="28" alt="" style="min-width: 28px; max-width: none"> | Yellow | Direct | You are away from home, or you just want to try it. The model makes its own Wi-Fi network for your phone. |
 
 Hold **button 5** (second from the bottom) for two seconds to switch between them.
 

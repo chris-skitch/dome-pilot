@@ -17,12 +17,12 @@ The icons below flash at about the same speed as the real lights.
 
 | | Light | Meaning |
 |---|---|---|
-| <img src="images/lights/green.svg" width="28" height="28" alt=""> | Green | On your home Wi-Fi. The usual way to use it. |
-| <img src="images/lights/green-fast.svg" width="28" height="28" alt=""> | Green, flashing quickly | Set to home Wi-Fi but not connected to a network. If it keeps flashing, put it on your Wi-Fi again and check the network is 2.4 GHz. |
-| <img src="images/lights/yellow.svg" width="28" height="28" alt=""> | Yellow | Direct mode: the model is making its own Wi-Fi network. |
-| <img src="images/lights/yellow-fast.svg" width="28" height="28" alt=""> | Yellow, flashing quickly | Switching to direct mode. Wait for it to stay on. |
-| <img src="images/lights/green-slow.svg" width="28" height="28" alt=""> <img src="images/lights/yellow-slow.svg" width="28" height="28" alt=""> | Green or yellow, flashing slowly | Resting after a few minutes with nothing to do. |
-| <img src="images/lights/yellow-green.svg" width="28" height="28" alt=""> | Yellow and green in turn | Listening for a voice command. |
+| <img src="images/lights/green.svg" width="28" height="28" alt="" style="min-width: 28px; max-width: none"> | Green | On your home Wi-Fi. The usual way to use it. |
+| <img src="images/lights/green-fast.svg" width="28" height="28" alt="" style="min-width: 28px; max-width: none"> | Green, flashing quickly | Set to home Wi-Fi but not connected to a network. If it keeps flashing, put it on your Wi-Fi again and check the network is 2.4 GHz. |
+| <img src="images/lights/yellow.svg" width="28" height="28" alt="" style="min-width: 28px; max-width: none"> | Yellow | Direct mode: the model is making its own Wi-Fi network. |
+| <img src="images/lights/yellow-fast.svg" width="28" height="28" alt="" style="min-width: 28px; max-width: none"> | Yellow, flashing quickly | Switching to direct mode. Wait for it to stay on. |
+| <img src="images/lights/green-slow.svg" width="28" height="28" alt="" style="min-width: 28px; max-width: none"> <img src="images/lights/yellow-slow.svg" width="28" height="28" alt="" style="min-width: 28px; max-width: none"> | Green or yellow, flashing slowly | Resting after a few minutes with nothing to do. |
+| <img src="images/lights/yellow-green.svg" width="28" height="28" alt="" style="min-width: 28px; max-width: none"> | Yellow and green in turn | Listening for a voice command. |
 
 While the charger is plugged in, the back light can show green even though the model is
 not on your Wi-Fi. See [troubleshooting](troubleshooting#it-disappears-while-its-charging).
@@ -31,14 +31,14 @@ not on your Wi-Fi. See [troubleshooting](troubleshooting#it-disappears-while-its
 
 | | Light | Meaning |
 |---|---|---|
-| <img src="images/lights/purple.svg" width="28" height="28" alt=""> | Purple | Switched on and ready. |
-| <img src="images/lights/blue-slow.svg" width="28" height="28" alt=""> | Blue, flashing slowly for about 30 seconds | Pair mode, after you press button 4. Ready to pair with a new device or to read a Wi-Fi code. |
-| <img src="images/lights/any-quick.svg" width="28" height="28" alt=""> | Quick flashes, with a buzz | It has read the Wi-Fi code and is joining your Wi-Fi. |
-| <img src="images/lights/red-slow.svg" width="28" height="28" alt=""> | Red, flashing slowly | It could not join your Wi-Fi. |
-| <img src="images/lights/red.svg" width="28" height="28" alt=""> | Red | Battery below 20%. Also red for a moment while starting up. |
-| <img src="images/lights/purple-slow.svg" width="28" height="28" alt=""> | Purple, flashing slowly | Charging. |
-| <img src="images/lights/blue.svg" width="28" height="28" alt=""> | Blue, while on the charger | Fully charged. |
-| <img src="images/lights/off.svg" width="28" height="28" alt=""> | Off | Resting; the back light flashes slowly. |
+| <img src="images/lights/purple.svg" width="28" height="28" alt="" style="min-width: 28px; max-width: none"> | Purple | Switched on and ready. |
+| <img src="images/lights/blue-slow.svg" width="28" height="28" alt="" style="min-width: 28px; max-width: none"> | Blue, flashing slowly for about 30 seconds | Pair mode, after you press button 4. Ready to pair with a new device or to read a Wi-Fi code. |
+| <img src="images/lights/any-quick.svg" width="28" height="28" alt="" style="min-width: 28px; max-width: none"> | Quick flashes, with a buzz | It has read the Wi-Fi code and is joining your Wi-Fi. |
+| <img src="images/lights/red-slow.svg" width="28" height="28" alt="" style="min-width: 28px; max-width: none"> | Red, flashing slowly | It could not join your Wi-Fi. |
+| <img src="images/lights/red.svg" width="28" height="28" alt="" style="min-width: 28px; max-width: none"> | Red | Battery below 20%. Also red for a moment while starting up. |
+| <img src="images/lights/purple-slow.svg" width="28" height="28" alt="" style="min-width: 28px; max-width: none"> | Purple, flashing slowly | Charging. |
+| <img src="images/lights/blue.svg" width="28" height="28" alt="" style="min-width: 28px; max-width: none"> | Blue, while on the charger | Fully charged. |
+| <img src="images/lights/off.svg" width="28" height="28" alt="" style="min-width: 28px; max-width: none"> | Off | Resting; the back light flashes slowly. |
 
 ## The six buttons
 

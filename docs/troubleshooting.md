@@ -69,8 +69,8 @@ mode it's set to, not that it's connected.
 
 | | Front light while charging |
 |---|---|
-| <img src="images/lights/purple-slow.svg" width="28" height="28" alt=""> | Purple, flashing slowly: charging |
-| <img src="images/lights/blue.svg" width="28" height="28" alt=""> | Blue: fully charged |
+| <img src="images/lights/purple-slow.svg" width="28" height="28" alt="" style="min-width: 28px; max-width: none"> | Purple, flashing slowly: charging |
+| <img src="images/lights/blue.svg" width="28" height="28" alt="" style="min-width: 28px; max-width: none"> | Blue: fully charged |
 
 About a minute after you unplug the charger, it rejoins your Wi-Fi by itself and Dome
 Pilot can find it again.
