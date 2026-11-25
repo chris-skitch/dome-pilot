@@ -54,8 +54,33 @@ The pictures show the app's built-in demo, which works without the model.
 - An iPhone or iPad running iOS 17 or later
 - For home Wi-Fi use, a 2.4 GHz network. The model cannot join 5 GHz networks.
 
+## Roadmap
+
+Nothing here has a date, and plans can change. **[Read the full roadmap](https://chris-skitch.github.io/dome-pilot/roadmap)**,
+and tell us what matters to you in the [pinned roadmap issue](https://github.com/chris-skitch/dome-pilot/issues/2).
+
+- ✅ **Now, 1.0:** everything above.
+- 🔜 **Next, 1.1:** fixes from your reports, faster finding of your model, a battery
+  widget, Siri using your model's name, and the app's source code published here.
+- 🛠 **Later, Dome Core and 2.0:** an optional Raspberry Pi add-on. It brings **Watch
+  Along**, where your model reacts in time with a film using free, community-made cue
+  tracks. It also adds driving from any browser, a shared camera, guest mode, Home
+  Assistant and battery history.
+- 🔬 **Exploring, custom firmware:** research into replacement software for the model's
+  board, so it stays reachable while charging. That would allow ambient mode, a greeter
+  and schedules. Research, not a promise.
+
+<a href="docs/images/mockups/dome-core-edit.png"><img src="docs/images/mockups/dome-core-edit.png" width="800" alt="Mockup of Dome Core's Edit page: a timeline of a film with lanes for sounds, actions, dome turns and lights, one cue selected, and controls to nudge it by a tenth of a second."></a>
+
+*Early mockup of Dome Core's Edit page, where you fine-tune a cue track. Not final.*
+
+**Can you help?** We're looking for a [spare controller board (issue 99)](https://github.com/chris-skitch/dome-pilot/issues/1)
+to test firmware safely, and a [spare Android phone or tablet](https://github.com/chris-skitch/dome-pilot/issues/3)
+for an Android version.
+
 ## Documentation
 
+- [Roadmap](https://chris-skitch.github.io/dome-pilot/roadmap)
 - [Getting started](https://chris-skitch.github.io/dome-pilot/getting-started)
 - [Using Dome Pilot](https://chris-skitch.github.io/dome-pilot/using-dome-pilot)
 - [Siri and Shortcuts](https://chris-skitch.github.io/dome-pilot/siri-and-shortcuts)
