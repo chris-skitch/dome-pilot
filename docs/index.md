@@ -12,8 +12,9 @@ you will know that its companion app is no longer available. Without it the mode
 camera, driving controls, sounds and routines cannot be used. Dome Pilot is a new,
 independent app that controls the model over Wi-Fi.
 
-**[Get Dome Pilot on the App Store](https://apps.apple.com/app/dome-pilot/id6838233662)**:
-free, for iPhone and iPad.
+Free, for iPhone and iPad.
+
+<p style="margin: 14px 0; line-height: 0;"><a href="https://apps.apple.com/app/dome-pilot/id6838233662" style="display: inline-block;"><img src="images/download-on-the-app-store.svg" alt="Download on the App Store" width="120" height="40" style="height: 40px; width: auto; max-width: none;"></a></p>
 
 ## Screenshots
 

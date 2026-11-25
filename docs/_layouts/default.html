@@ -33,7 +33,10 @@
           </ol>
         </nav>
 
+        {% comment %} One App Store badge per page (Apple's rule): the home page shows it in the content instead. {% endcomment %}
+        {% unless here == "/" %}
         <p class="store"><a href="https://apps.apple.com/app/dome-pilot/id6838233662"><img src="{{ "/images/download-on-the-app-store.svg" | relative_url }}" alt="Download on the App Store" width="120" height="40"></a></p>
+        {% endunless %}
         <p class="view"><a href="{{ site.github.repository_url }}">Problems and ideas on GitHub</a></p>
       </header>
       <section>
