@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: "en-GB" }}">
+  <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+{% seo %}
+    <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
+    {% include head-custom.html %}
+  </head>
+  <body>
+    {% assign here = page.url | remove: ".html" %}
+    {% if here == "/index" %}{% assign here = "/" %}{% endif %}
+    <div class="wrapper">
+      <header>
+        <a class="brand" href="{{ "/" | relative_url }}">
+          {% if site.logo %}<img src="{{ site.logo | relative_url }}" alt="" width="56" height="56">{% endif %}
+          <span>{{ site.title }}</span>
+        </a>
+
+        <nav class="toc" aria-label="Guide contents">
+          <ol>
+            {% for item in site.data.nav %}
+              <li>
+                {% if item.url == here %}
+                  <a href="{{ item.url | relative_url }}" aria-current="page">{{ item.title }}</a>
+                {% else %}
+                  <a href="{{ item.url | relative_url }}">{{ item.title }}</a>
+                {% endif %}
+              </li>
+            {% endfor %}
+          </ol>
+        </nav>
+
+        <p class="store"><a href="https://apps.apple.com/app/dome-pilot/id6838233662">Get it on the App Store</a></p>
+        <p class="view"><a href="{{ site.github.repository_url }}">Problems and ideas on GitHub</a></p>
+      </header>
+      <section>
+
+      {{ content }}
+
+      {% assign prev = nil %}
+      {% assign next = nil %}
+      {% for item in site.data.nav %}
+        {% if item.url == here %}
+          {% assign i = forloop.index0 %}
+          {% assign p = i | minus: 1 %}
+          {% assign n = i | plus: 1 %}
+          {% if i > 0 %}{% assign prev = site.data.nav[p] %}{% endif %}
+          {% assign next = site.data.nav[n] %}
+        {% endif %}
+      {% endfor %}
+      {% if prev or next %}
+      <nav class="pager" aria-label="Previous and next page">
+        {% if prev %}<a class="prev" href="{{ prev.url | relative_url }}"><small>Previous</small><span>‹ {{ prev.title }}</span></a>{% else %}<span></span>{% endif %}
+        {% if next %}<a class="next" href="{{ next.url | relative_url }}"><small>Next</small><span>{{ next.title }} ›</span></a>{% endif %}
+      </nav>
+      {% endif %}
+
+      </section>
+      <footer>
+        <p><small>Dome Pilot is an independent app, not affiliated with the model's publisher.</small></p>
+      </footer>
+    </div>
+  </body>
+</html>

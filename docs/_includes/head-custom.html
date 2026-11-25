@@ -1,0 +1,30 @@
+<style>
+  /* Sidebar on wide screens, a compact block at the top on narrow ones. */
+  header { max-height: calc(100vh - 120px); overflow-y: auto; }
+  header .brand { display: flex; align-items: center; gap: 12px; text-decoration: none; color: #222; font-weight: 700; font-size: 22px; margin-bottom: 18px; }
+  header .brand img { border-radius: 12px; }
+  .toc ol { list-style: none; margin: 0 0 18px; padding: 0; }
+  .toc li { margin: 0; }
+  .toc a { display: block; padding: 6px 10px; border-radius: 8px; color: #333; text-decoration: none; font-size: 15px; }
+  .toc a:hover { background: #f2f2f7; color: #1e6fd9; }
+  .toc a[aria-current="page"] { background: #e8effb; color: #1557b0; font-weight: 700; }
+  header p.store a { display: inline-block; background: #1e6fd9; color: #fff; padding: 8px 14px; border-radius: 10px; font-weight: 700; text-decoration: none; }
+  header p.store a:hover { background: #1557b0; }
+  footer { bottom: 30px; }
+
+  .pager { display: flex; justify-content: space-between; gap: 12px; margin: 48px 0 8px; padding-top: 20px; border-top: 1px solid #e5e5e5; }
+  .pager a { display: flex; flex-direction: column; gap: 2px; padding: 10px 14px; border: 1px solid #e0e0e0; border-radius: 10px; text-decoration: none; max-width: 48%; }
+  .pager a:hover { border-color: #1e6fd9; background: #f6f9fe; }
+  .pager small { color: #6e6e73; font-size: 12px; }
+  .pager span { font-weight: 700; color: #1e6fd9; }
+  .pager .next { margin-left: auto; text-align: right; }
+
+  @media print, screen and (max-width: 960px) {
+    header { max-height: none; overflow: visible; padding-right: 0; }
+    header .brand { margin-bottom: 12px; }
+    .toc ol { display: flex; flex-wrap: wrap; gap: 6px; position: static; }
+    .toc a { padding: 6px 10px; background: #f2f2f7; font-size: 14px; }
+    header ul { position: static; }
+    footer { position: static; }
+  }
+</style>

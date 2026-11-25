@@ -1,0 +1,18 @@
+# The guide's pages, in reading order. Drives the contents list and the
+# previous/next links on every page.
+- title: Home
+  url: /
+- title: Getting started
+  url: /getting-started
+- title: Using Dome Pilot
+  url: /using-dome-pilot
+- title: Siri and Shortcuts
+  url: /siri-and-shortcuts
+- title: Lights and buttons
+  url: /lights-and-buttons
+- title: Troubleshooting
+  url: /troubleshooting
+- title: Support and feedback
+  url: /support
+- title: Privacy policy
+  url: /privacy
