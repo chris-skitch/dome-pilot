@@ -46,6 +46,10 @@ after your model. Dome Pilot keeps working fully without it.
   - Play from your iPhone or iPad, or **hand over to Dome Core** and put your phone down.
   - With Home Assistant, Dome Core can follow your player (Apple TV, Plex, Kodi), so
     pausing the film pauses your model.
+
+  <a href="images/mockups/dome-core-edit.png"><img src="images/mockups/dome-core-edit.png" width="800" alt="Mockup of Dome Core's Edit page: a timeline of a film with lanes for sounds, actions, dome turns and lights, one cue selected, and controls to nudge it by a tenth of a second."></a>
+
+  *Early mockup of the Edit page, where you fine-tune a cue track. Not final.*
 - **Drive from any browser,** including Android phones and computers
 - **Shared camera:** several devices can watch at once
 - **Guest mode:** a simple page for children and visitors, with the sounds you choose and
