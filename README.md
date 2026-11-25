@@ -7,8 +7,9 @@ The model's original companion app is no longer available, which leaves the fini
 model without its camera view, driving controls, sounds and routines. Dome Pilot is a
 new, independent app that controls the model over Wi-Fi.
 
-**[Get Dome Pilot on the App Store](https://apps.apple.com/app/dome-pilot/id6838233662)**:
-free, for iPhone and iPad.
+Free, for iPhone and iPad.
+
+<a href="https://apps.apple.com/app/dome-pilot/id6838233662"><img src="docs/images/download-on-the-app-store.svg" alt="Download on the App Store" height="40"></a>
 
 This repository holds the app's documentation and its issue tracker. The source code is
 not published here yet.
@@ -102,3 +103,6 @@ De Agostini, Fanhome, Lucasfilm Ltd or Disney. R2-D2 and Star Wars are trademark
 Lucasfilm Ltd. De Agostini and Fanhome are trademarks of their respective owners. These
 names are used only to identify the model the app works with. The app contains no
 artwork, sounds or code from the model's original app.
+
+Apple and the Apple logo are trademarks of Apple Inc., registered in the U.S. and other
+countries. App Store is a service mark of Apple Inc.
